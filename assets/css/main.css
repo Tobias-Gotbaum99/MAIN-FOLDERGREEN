@@ -2001,20 +2001,20 @@ input, select, textarea {
 
 			#nav > ul > li.active > a:before,
 			#nav > ul > li:hover > a:before {
-				background: #74d8a9;
-				color: rgb(204, 8, 8)fff;
+				background: #050505;
+				color: rgb(0, 0, 0)fff;
 			}
 
 			#nav > ul > li.active > a > span,
 			#nav > ul > li:hover > a > span {
-				color: #eeeeee;
+				color: #181515;
 			}
 
 	.dropotron {
 		text-align: left;
-		border: solid 1px #009e42;
+		border: solid 1px #121312;
 		border-radius: 4px;
-		background: rgb(5, 184, 44)
+		background: rgb(5, 5, 5)
 		background: rgba(255, 255, 255, 0.965);
 		box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.1);
 		padding: 0.75em 0 0.5em 0;
