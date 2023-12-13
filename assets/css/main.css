@@ -56,7 +56,7 @@ body {
 }
 
 mark {
-	background-color: "Greeen";
+	background-color: "Green";
 	color: inherit;
 }
 
@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #0ca559;
+		background: #03af03;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -149,12 +149,12 @@ input, select, textarea {
 		}
 
 		a:hover {
-			color: #6aed8b;
+			color: #838383;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
 			a:hover strong {
-				color: #328304;
+				color: #050505;
 			}
 
 	strong, b {
