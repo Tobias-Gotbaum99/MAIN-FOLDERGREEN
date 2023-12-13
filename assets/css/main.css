@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
-		color: #26c921;
+		color: #abc2ab;
 		line-height: 1.65em;
 		font-size: 15pt;
 	}
@@ -136,7 +136,7 @@ input, select, textarea {
 		-webkit-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		-ms-transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
 		transition: color 0.25s ease-in-out, border-bottom-color 0.25s ease-in-out;
-		color: #328304;
+		color: #5fd41b;
 		text-decoration: none;
 		border-bottom: solid 1px #ddd;
 	}
@@ -149,7 +149,7 @@ input, select, textarea {
 		}
 
 		a:hover {
-			color: #838383;
+			color: #000000;
 			border-bottom-color: rgba(255, 255, 255, 0);
 		}
 
@@ -2054,9 +2054,9 @@ input, select, textarea {
 		.dropotron span, .dropotron a {
 			display: block;
 			padding: 0.3em 1em 0.3em 1em;
-			border: 0;
-			border-top: solid 1px #f0f0f0;
-			outline: 0;
+			border: 5;
+			border-top: solid 1px #0a993a;
+			outline: 3;
 		}
 
 		.dropotron li {
